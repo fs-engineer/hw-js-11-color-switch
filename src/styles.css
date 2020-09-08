@@ -86,3 +86,11 @@ button:hover {
 button:active {
   top: 1px;
 }
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  padding-top: 100px;
+}
